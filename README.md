@@ -20,7 +20,7 @@ There are 2225 text data entries with 5 different categories (Tech,Sport,Busines
 The text data have 99 duplicated data and need to cleared before seperating the dataset
 
 Before start the training of the data, The text data need to be clean from any anomilities, numbers and be in lower case alphabet. 
-For category data, one hot encoder was used to format that can be traine in deep learning
+For category data, one hot encoder was used to format that can be train in deep learning
 
 ### Deep Learning with LSTM
 A sequential model was created with 2 layer of LSTM and 1 Dense layer:
